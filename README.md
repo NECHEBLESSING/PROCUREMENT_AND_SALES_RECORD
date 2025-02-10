@@ -77,6 +77,8 @@ These processes were caried out using power query
 
 •	**BY PROCUREMENT COST:**
    - **Scanner** has the highest amount of procurement cost with $17
+
+. [dashboard](https://github.com/NECHEBLESSING/PROCUREMENT_AND_SALES_RECORD/commit/421c024082f9ba258d182147ef79a44c71b371a2#diff-33eeab46dc74339c37efc98ab4bdf0bd49e093f0cb71518f679a39fd02604e54)
 # INSIGHTS
 **1.	Financial Performance Insights**
 -	Northern Region generates the highest revenue, while East Region has the lowest, indicating a need for targeted sales strategies.
