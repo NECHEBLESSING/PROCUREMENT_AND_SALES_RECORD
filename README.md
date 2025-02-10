@@ -16,6 +16,8 @@
 
 . [DATA ANALYSIS](#data-analysis)
 
+. [DASHBOARDS](#dashboards)
+
 . [INSIGHTS](#insights)
 
 . [RECOMMENDATION](#recommendation)
@@ -77,7 +79,7 @@ These processes were caried out using power query
 
 •	**BY PROCUREMENT COST:**
    - **Scanner** has the highest amount of procurement cost with $17
-# DASHBOARD
+# DASHBOARDS
 ![CSD](https://github.com/user-attachments/assets/14c78be6-04bf-4dca-9632-22612a1cc64d)
 ![customer experience](https://github.com/user-attachments/assets/163da22b-6f73-4fc2-b598-1e41ed91fceb)
 ![customers experience dashboard](https://github.com/user-attachments/assets/6ea4b982-3687-41d4-827f-084d9d26c05c)
